@@ -13,7 +13,7 @@ remove_button = {
 }
 
 # We dont want to run a loop forever, so we will use this amount to loop for a specified time
-friends = 475
+friends = 816
 time.sleep(5)   
 
 for _ in range(0, friends):
